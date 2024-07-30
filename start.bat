@@ -1,7 +1,7 @@
 @echo off
 title MultiTool By Aka
 
-cd util 
+cd utils
 
 python main.py
 
